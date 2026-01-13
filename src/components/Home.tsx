@@ -11,7 +11,7 @@ function Home() {
               <p className="text-lg text-blue-600 font-medium">Hello, I'm</p>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white leading-tight">
                 <span className="text-blue-600 dark:text-blue-400">
-                  Bright Wang
+                  Jason Krause
                 </span>
                 <br />
                 <span className="text-gray-800 dark:text-gray-200">
@@ -99,7 +99,7 @@ function Home() {
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-white">
                   <img
                     src={homePhoto}
-                    alt="Bright Wang"
+                    alt="Jason Krause"
                     className="w-full h-full object-cover"
                   />
                 </div>

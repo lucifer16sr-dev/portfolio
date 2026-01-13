@@ -21,7 +21,7 @@ function About() {
                 <div className="w-full h-full rounded-lg overflow-hidden border-4 border-white">
                   <img
                     src={aboutPhoto}
-                    alt="Bright Wang"
+                    alt="Jason Krause"
                     className="w-full h-full object-cover"
                   />
                 </div>
